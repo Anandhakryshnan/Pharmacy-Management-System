@@ -1,4 +1,4 @@
-#ABSTRACT
+## ABSTRACT
 
 Computer can be designed to do almost anything with information’s. In this era
 people uses computer to reduce the time and to do works in less time with accurate output.
